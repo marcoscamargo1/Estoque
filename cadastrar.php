@@ -19,8 +19,7 @@
 				<input class="senha" type="password" name="senha" placeholder="Senha" required> <br>				
 			</div>
 			<div>
-				<input class="submit-cadastro" type="submit" value="Cadastrar">
-				<!-- <input class="submit" type="submit" value="Cadastrar"> -->
+				<input class="submit-cadastro" type="submit" value="Cadastrar">				
 			</div>			
 		</form>				
 	</div><!--container-->

@@ -16,8 +16,8 @@
 				<input class="senha" type="password" name="senha" placeholder="Senha" required=""> <br>			
 			</div>
 			<div>
-				<a href="login.php"><input class="submit" type="submit" value="Entrar"></a>
-				<a href="cadastrar.php"><input class="submit" type="submit" value="Cadastrar"></a> 
+				<a href="#"><input class="submit" type="submit" value="Entrar"></a>
+				<button><a href="cadastrar.php">Cadastrar</a></button> 
 			</div>
 
 			<a href="recup-senha.php">Esqueceu sua senha?</a>

@@ -51,7 +51,8 @@ input.senha {
 	background-image: url(../images/icone-cadeado.png);
 }
 
-input.submit {
+input.submit, button, input.submit-cadastro {
+	font-size: 16px;
 	color: #757575;
 	background-color: #e0e0e0;
 	border: 1px solid #d1d5da;
@@ -59,16 +60,11 @@ input.submit {
 	padding: 5px 20px;
 	height: 45px;
 	width: 40%;	
+	cursor: pointer;
 } 
 
 input.submit-cadastro {
-	color: #757575;
-	background-color: #e0e0e0;
-	border: 1px solid #d1d5da;
 	margin-top: 5px;	
-	padding: 5px 20px;
-	height: 45px;
-	width: 30%;
 }
 
 a {	
