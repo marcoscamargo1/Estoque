@@ -1,0 +1,78 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;nter;
+    background: #e9ebee; 
+}
+
+h1 {
+	padding: 30px;
+	color: #757575;
+}
+
+.container {
+	width: 400px;
+	height: 400px;
+	background-color: rgba(255, 255, 255, 0.3);
+	border-radius: 10px;
+	margin: 0 auto;
+	margin-top: 140px;
+	text-align: center;
+	box-shadow: 0 2px 2px rgba(0,0,0,0.12);
+}
+
+input {
+	height: 45px;
+	width: 70%;
+	font-size: 16px;	
+	margin: 0 0 30px;
+	background-color: #fafbfc;
+	padding-left: 35px;	
+	background-repeat: no-repeat;
+	background-position: 10px;
+	border: 1px solid #d5d5d5;
+	border-radius: 5px;	             
+}
+
+input.nome {
+	background-image: url(../images/icone-usuario.png);
+}
+
+input.email {
+
+	background-image: url(../images/icone-email.png);
+
+}
+
+input.senha {
+	background-image: url(../images/icone-cadeado.png);
+}
+
+input.submit {
+	color: #757575;
+	background-color: #e0e0e0;
+	border: 1px solid #d1d5da;
+	margin-top: 20px;
+	padding: 5px 20px;
+	height: 45px;
+	width: 40%;	
+} 
+
+input.submit-cadastro {
+	color: #757575;
+	background-color: #e0e0e0;
+	border: 1px solid #d1d5da;
+	margin-top: 5px;	
+	padding: 5px 20px;
+	height: 45px;
+	width: 30%;
+}
+
+a {	
+	color: #757575;
+	text-decoration: none;
+	cursor: pointer;
+}
